@@ -1,7 +1,7 @@
-// src/utils/SimpleUtils.groovy
+
 package utils
 
-class SimpleUtils {
+class Second {
     static int add(int a, int b) {
         return a + b
     }
